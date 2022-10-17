@@ -1,9 +1,9 @@
 {
-  "name": "opencast-react-studio",
+  "name": "zapshare",
   "version": "2.0.0",
   "private": true,
   "description": "Web-based recording studio for Opencast",
-  "license": "MIT",
+  "license": "GPLv3",
   "dependencies": {
     "@babel/eslint-plugin": "^7.19.1",
     "@emotion/core": "^10.1.1",
@@ -43,9 +43,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elan-ev/zapshare.git"
+    "url": "git+https://github.com/DougBeney/zapshare.git"
   },
-  "homepage": "https://studio.opencast.org",
+  "homepage": "",
   "scripts": {
     "predeploy": "npm run build",
     "start": "EXTEND_ESLINT=true REACT_APP_GIT_SHA=$(git rev-parse --short HEAD) REACT_APP_BUILD_DATE=$(date -u '+%Y-%m-%d') react-scripts start",
