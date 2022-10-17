@@ -78,11 +78,11 @@ const Brand = () => {
       <picture sx={{ display: 'block', height: theme => theme.heights.headerHeight }}>
         <source
           media="(min-width: 920px)"
-          srcSet={`${process.env.PUBLIC_URL}/opencast-studio.svg`}
+          srcSet={`${process.env.PUBLIC_URL}/zapshare.svg`}
         />
         <img
-          src={`${process.env.PUBLIC_URL}/opencast-studio-small.svg`}
-          alt="Opencast Studio"
+          src={`${process.env.PUBLIC_URL}/zapshare-small.svg`}
+          alt="ZapShare"
           sx={{ height: theme => theme.heights.headerHeight }}
         />
       </picture>

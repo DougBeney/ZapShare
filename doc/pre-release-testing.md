@@ -21,7 +21,7 @@ Everything should be tested on all officially supported systems and browser:
 
 #### UI
 
-- **Logo and "Opencast Studio"** are visible?
+- **Logo and "ZapShare"** are visible?
 - Make sure **only supported sources** are shown:
     - Mobile: only "Share webcam", not "Share desktop"
     - Desktop: should show both, "webcam" and "desktop"

@@ -1,6 +1,6 @@
 # Configuration
 
-Opencast Studio can be configured in three different ways:
+ZapShare can be configured in three different ways:
 
 - the user can manually configure certain things on the settings page,
 - the server can provide a `settings.toml` (only applicable if you deploy Studio yourself or as part of your Opencast), and
@@ -20,7 +20,7 @@ code block shows the TOML configuration, but all values can be specified as GET
 parameter as well. See further below for information on that.
 
 ```toml
-# Configuration for Opencast Studio.
+# Configuration for ZapShare.
 #
 # Is loaded by Studio in the beginning. Default path is "settings.toml"
 # (relative to current URL), but can be overwritten via the environment variable
@@ -261,7 +261,7 @@ By default, this template is used:
     {{ #presenter }}<dcterms:creator>{{ presenter }}</dcterms:creator>{{ /presenter }}
     {{ #seriesId }}<dcterms:isPartOf>{{ seriesId }}</dcterms:isPartOf>{{ /seriesId }}
     <dcterms:extent xsi:type="dcterms:ISO8601">PT5.568S</dcterms:extent>
-    <dcterms:spatial>Opencast Studio</dcterms:spatial>
+    <dcterms:spatial>ZapShare</dcterms:spatial>
 </dublincore>
 ```
 

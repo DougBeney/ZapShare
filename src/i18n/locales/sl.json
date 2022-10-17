@@ -83,11 +83,11 @@
   "upload-settings-label-password": "Geslo",
   "upload-settings-invalid-url": "To ni veljaven URL",
   "upload-settings-invalid-url-http-start": "URL povezava se mora začeti z 'https://' ali 'http://'",
-  "upload-settings-error-server-unreachable": "Strežnik, ki ste ga izbrali, ni dosegljiv. Možni vzroki: naslov spletnega strežnika, ki ste ga navedli, je napačen; vaša naprava je brez interrnetne povezave; strežnik Opencast je brez povezave; strežnik Opencast ni pravilno konfiguriran, ter ne dovoli CORS zahtevka iz programa Opencast Studio.",
+  "upload-settings-error-server-unreachable": "Strežnik, ki ste ga izbrali, ni dosegljiv. Možni vzroki: naslov spletnega strežnika, ki ste ga navedli, je napačen; vaša naprava je brez interrnetne povezave; strežnik Opencast je brez povezave; strežnik Opencast ni pravilno konfiguriran, ter ne dovoli CORS zahtevka iz programa ZapShare.",
   "upload-settings-error-response-not-ok": "Strežnik je na našo zahtevo vrnil odgovor, ki ni v redu (Not OK). To verjetno pomeni, da strežnik, ki ste ga izbrai, ni veljaven strežnik Opencast.",
   "upload-settings-error-invalid-response": "Strežnik je na našo zahtevo vrnil neveljaven odgovor. To verjetno pomeni, da strežnik, ki ste ga navedli, ni veljaven strežnik Opencast.",
   "upload-settings-invalid-login-data": "Prijava v strežnik Opencast je neuspešna: uporabniško ime ali geslo, ki ste ga navedli, je neveljavno.",
-  "upload-settings-invalid-provided-login": "Strežnik sporoča, da omogoča samodejno prijavo, vendar je bila zahteva vrnjena kot neavtenticirana. To je ali notranja napaka programa Opencast Studio ali pa je vaš sistemski skrbnik napačno konfiguriral strežnik. Žal glede tega ne moremo pomagati :(",
+  "upload-settings-invalid-provided-login": "Strežnik sporoča, da omogoča samodejno prijavo, vendar je bila zahteva vrnjena kot neavtenticirana. To je ali notranja napaka programa ZapShare ali pa je vaš sistemski skrbnik napačno konfiguriral strežnik. Žal glede tega ne moremo pomagati :(",
 
   "upload-time-a-few-seconds": "nekaj sekund",
   "upload-time-a-minute": "minuta",

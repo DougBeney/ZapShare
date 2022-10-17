@@ -33,7 +33,7 @@
   "save-creation-warn-once-logged-in": "Once you are correctly logged in, this warning will disappear.",
   "save-creation-warn-unreachable": "The Opencast server is currently unreachable. Please check your internet connection! If you are connected to the internet, this is likely a temporary problem with the Opencast server.",
   "save-creation-warn-server-problem": "An unknown problem occurred while connecting to the Opencast server.",
-  "save-creation-warn-session-expired": "It seems like your Opencast session has expired. To refresh the session, try opening <1>the website from which you started Opencast Studio</1> in another browser tab and return here.",
+  "save-creation-warn-session-expired": "It seems like your Opencast session has expired. To refresh the session, try opening <1>the website from which you started ZapShare</1> in another browser tab and return here.",
   "save-creation-warn-login-failed": "Logging into the Opencast server failed. Please check your login credentials in <1>the settings</1>.",
 
   "save-creation-return-to": "Exit and go back to {{label}}",
@@ -120,11 +120,11 @@
   "upload-settings-label-password": "Password",
   "upload-settings-invalid-url": "This is not a valid URL",
   "upload-settings-invalid-url-http-start": "The URL should start with 'https://' or 'http://'",
-  "upload-settings-error-server-unreachable": "The server you specified is not reachable. Possible causes: the server URL you specified is incorrect; your device is offline; the Opencast server is offline; the Opencast server is not correctly configured to allow CORS requests from Opencast Studio.",
+  "upload-settings-error-server-unreachable": "The server you specified is not reachable. Possible causes: the server URL you specified is incorrect; your device is offline; the Opencast server is offline; the Opencast server is not correctly configured to allow CORS requests from ZapShare.",
   "upload-settings-error-response-not-ok": "The server returned a non-OK answer to our request. This likely means that the server you specified is not a valid Opencast server.",
   "upload-settings-error-invalid-response": "The server returned an invalid response to our request. This likely means that the server you specified is not a valid Opencast server.",
   "upload-settings-invalid-login-data": "Could not log into Opencast server: the username/password you provided are invalid.",
-  "upload-settings-invalid-provided-login": "The server specifies that it provides an automatic login, but the request returned non-authenticated. This is either an internal bug of Opencast Studio or your system administrator misconfigured the server. There is nothing you can do :(",
+  "upload-settings-invalid-provided-login": "The server specifies that it provides an automatic login, but the request returned non-authenticated. This is either an internal bug of ZapShare or your system administrator misconfigured the server. There is nothing you can do :(",
 
   "upload-time-a-few-seconds": "a few seconds",
   "upload-time-a-minute": "a minute",

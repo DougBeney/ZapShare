@@ -33,7 +33,7 @@
   "save-creation-warn-once-logged-in": "正确登录后，此警告将消失。",
   "save-creation-warn-unreachable": "Opencast服务器当前无法访问。请检查您的互联网连接！如果您已连接到互联网，则这可能是 Opencast 服务器的临时问题。",
   "save-creation-warn-server-problem": "连接到 Opencast 服务器时出现未知问题。",
-  "save-creation-warn-session-expired": "您的 Opencast 会话似乎已过期。要刷新会话，请尝试在另一个浏览器选项卡中打开<1>您从中启动 Opencast Studio</1>的网站，然后返回此处。",
+  "save-creation-warn-session-expired": "您的 Opencast 会话似乎已过期。要刷新会话，请尝试在另一个浏览器选项卡中打开<1>您从中启动 ZapShare</1>的网站，然后返回此处。",
   "save-creation-warn-login-failed": "登录到 Opencast 服务器失败。请在 <1>设置</1> 中检查您的登录凭据。",
 
   "save-creation-return-to": "退出并返回 {{label}}",
@@ -118,11 +118,11 @@
   "upload-settings-label-password": "密码",
   "upload-settings-invalid-url": "这不是一个有效的网址",
   "upload-settings-invalid-url-http-start": "网址应以 'https://' 或 'http://'",
-  "upload-settings-error-server-unreachable": "您指定的服务器不可访问。可能的原因：您指定的服务器 URL 不正确;您的设备处于离线状态;Opencast服务器处于脱机状态;未正确配置 Opencast 服务器以允许来自 Opencast Studio 的 CORS 请求。",
+  "upload-settings-error-server-unreachable": "您指定的服务器不可访问。可能的原因：您指定的服务器 URL 不正确;您的设备处于离线状态;Opencast服务器处于脱机状态;未正确配置 Opencast 服务器以允许来自 ZapShare 的 CORS 请求。",
   "upload-settings-error-response-not-ok": "服务器对我们的请求返回了一个非 OK 答案。这可能意味着您指定的服务器不是有效的 Opencast 服务器。",
   "upload-settings-error-invalid-response": "服务器对我们的请求返回了无效的响应。这可能意味着您指定的服务器不是有效的 Opencast 服务器。",
   "upload-settings-invalid-login-data": "无法登录到 Opencast 服务器：您提供的用户名/密码无效。",
-  "upload-settings-invalid-provided-login": "服务器指定它提供自动登录，但返回的请求未经身份验证。这是 Opencast Studio 的内部错误，或者您的系统管理员错误地配置了服务器。你无能为力:(",
+  "upload-settings-invalid-provided-login": "服务器指定它提供自动登录，但返回的请求未经身份验证。这是 ZapShare 的内部错误，或者您的系统管理员错误地配置了服务器。你无能为力:(",
 
   "upload-time-a-few-seconds": "几秒钟",
   "upload-time-a-minute": "一分钟",

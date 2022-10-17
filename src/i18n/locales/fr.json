@@ -33,7 +33,7 @@
   "save-creation-warn-once-logged-in": "Lorsque vous serez connecté avec votre compte, cet avertissement disparaîtra.",
   "save-creation-warn-unreachable": "Le serveur Opencast est présentement inaccessible. Veuillez vérifier votre connexion internet ! Si vous êtes bien connecté, il s’agit probablement d’un problème temporaire avec le serveur Opencast.",
   "save-creation-warn-server-problem": "Un problème inconnu s’est produit lors de la connexion au serveur Opencast.",
-  "save-creation-warn-session-expired": "Il semble que votre session Opencast ait expiré. Pour actualiser la session, essayez d’ouvrir <1>le site à partir duquel vous avez démarré Opencast Studio</1> dans un autre onglet de votre navigateur et revenez à cette page.",
+  "save-creation-warn-session-expired": "Il semble que votre session Opencast ait expiré. Pour actualiser la session, essayez d’ouvrir <1>le site à partir duquel vous avez démarré ZapShare</1> dans un autre onglet de votre navigateur et revenez à cette page.",
   "save-creation-warn-login-failed": "La connexion au serveur Opencast a échoué. Veuillez vérifier vos identifiants de connexion dans la section <1>paramètres</1>.",
 
   "save-creation-return-to": "Quitter et retourner vers {{label}}",
@@ -120,11 +120,11 @@
   "upload-settings-label-password": "Mot de passe",
   "upload-settings-invalid-url": "Cette adresse URL est invalide",
   "upload-settings-invalid-url-http-start": "L’adresse URL devrait commencer avec 'https://' ou 'http://'",
-  "upload-settings-error-server-unreachable": "Le serveur que vous avez indiqué n’est pas accessible. Causes possibles : l’URL du serveur que vous avez spécifié est incorrecte ; votre ordinateur est hors ligne ; le serveur Opencast est hors ligne ; le serveur Opencast n’est pas correctement configuré pour permettre les requêtes CORS d’Opencast Studio.",
+  "upload-settings-error-server-unreachable": "Le serveur que vous avez indiqué n’est pas accessible. Causes possibles : l’URL du serveur que vous avez spécifié est incorrecte ; votre ordinateur est hors ligne ; le serveur Opencast est hors ligne ; le serveur Opencast n’est pas correctement configuré pour permettre les requêtes CORS d’ZapShare.",
   "upload-settings-error-response-not-ok": "Le serveur a renvoyé une réponse erronée à notre demande. Cela signifie probablement que le serveur que vous avez spécifié n’est pas un serveur Opencast valide.",
   "upload-settings-error-invalid-response": "Le serveur a renvoyé une réponse invalide à notre demande. Cela signifie probablement que le serveur que vous avez spécifié n’est pas un serveur Opencast valide.",
   "upload-settings-invalid-login-data": "Impossible de se connecter au serveur Opencast : l’identifiant/mot de passe que vous avez fourni n’est pas valide.",
-  "upload-settings-invalid-provided-login": "Le serveur précise qu’il fournit une connexion automatique, mais la demande renvoyée n’est pas authentifiée. Il s’agit soit d’un bogue interne d’Opencast Studio, soit d’une mauvaise configuration du serveur par votre administrateur système. Il n’y a rien que vous puissiez faire :(",
+  "upload-settings-invalid-provided-login": "Le serveur précise qu’il fournit une connexion automatique, mais la demande renvoyée n’est pas authentifiée. Il s’agit soit d’un bogue interne d’ZapShare, soit d’une mauvaise configuration du serveur par votre administrateur système. Il n’y a rien que vous puissiez faire :(",
 
   "upload-time-a-few-seconds": "quelques secondes",
   "upload-time-a-minute": "une minute",

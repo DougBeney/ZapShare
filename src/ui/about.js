@@ -55,19 +55,19 @@ function About(props) {
     <Container>
       <article sx={{ maxWidth: '900px', margin: '0 auto' }}>
         <header>
-          <Themed.h1>Opencast Studio</Themed.h1>
+          <Themed.h1>ZapShare</Themed.h1>
         </header>
         <Themed.p>
           A web-based recording studio for <Themed.a href="https://opencast.org">Opencast</Themed.a>.
         </Themed.p>
         <Themed.p>
-          Opencast Studio allows you to record your camera, your display and your microphoneʼs audio.
+          ZapShare allows you to record your camera, your display and your microphoneʼs audio.
           You can then either download your recordings or upload them directly to an Opencast
           instance (usually the one of your university).
         </Themed.p>
         <Themed.p>
           This is free software under the terms of the{' '}
-          <Themed.a href="https://github.com/elan-ev/opencast-studio/blob/master/LICENSE">
+          <Themed.a href="https://github.com/elan-ev/zapshare/blob/master/LICENSE">
             MIT License
           </Themed.a>{' '}
           developed by the <Themed.a href="https://elan-ev.de">ELAN e.V.</Themed.a> in cooperation
@@ -76,7 +76,7 @@ function About(props) {
 
         <Themed.h2>How it works</Themed.h2>
         <Themed.p>
-          Opencast Studio uses the recording capabilities built into modern browsers to record
+          ZapShare uses the recording capabilities built into modern browsers to record
           audio and video streams. The recording happens in the userʼs browser and no server is
           involved in the recording.
         </Themed.p>
@@ -87,7 +87,7 @@ function About(props) {
             <Themed.p>
               If you are experiencing any difficulties or found any bugs,
               please take a look at the{' '}
-              <Themed.a href="https://github.com/elan-ev/opencast-studio/issues">
+              <Themed.a href="https://github.com/elan-ev/zapshare/issues">
                 issue tracker on GitHub
               </Themed.a>.
               Before filing a new issue, please check if one about your topic already exists.
@@ -95,7 +95,7 @@ function About(props) {
             </Themed.p>
             <Themed.p>
               If you are interested in additional development
-              or want to support the development of Opencast Studio, please contact{' '}
+              or want to support the development of ZapShare, please contact{' '}
               <Themed.a href="mailto:opencast-support@elan-ev.de">
                 opencast-support@elan-ev.de
               </Themed.a>.
@@ -137,7 +137,7 @@ function About(props) {
           commit{' '}
           <Themed.a
             aria-label="Git commit on GitHub"
-            href={"https://github.com/elan-ev/opencast-studio/commit/"
+            href={"https://github.com/elan-ev/zapshare/commit/"
                   + process.env.REACT_APP_GIT_SHA }
             >
             {process.env.REACT_APP_GIT_SHA || '?'}

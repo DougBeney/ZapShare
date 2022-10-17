@@ -1,7 +1,7 @@
-Contributing to Opencast Studio
+Contributing to ZapShare
 ===============================
 
-As an open source project, Opencast Studio welcomes contributions of many forms.
+As an open source project, ZapShare welcomes contributions of many forms.
 Examples of contributions include:
 
 - Code patches
@@ -31,7 +31,7 @@ If you want to make us happy, please also provide this reasoning as part of your
 Tests
 -----
 
-Opencast Studio comes with a set of tests.
+ZapShare comes with a set of tests.
 Passing these tests is a requirement for all contributions.
 These tests are also run automatically on our CI system.
 

@@ -1,5 +1,5 @@
 {
-  "short_name": "Opencast Studio",
+  "short_name": "ZapShare",
   "name": "Web-based recording studio for Opencast",
   "icons": [
     {
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "opencast-studio-icon-192.png",
+      "src": "zapshare-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "opencast-studio-icon-512.png",
+      "src": "zapshare-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
